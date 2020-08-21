@@ -31,6 +31,11 @@ Trained on mnist data
 
 #### Original Image
  <a>
-    <img src="./orig.png" width="400" height ="500"/>
+    <img src="./orig.png" width="300" height ="300"/>
+ </a>
+ 
+#### Layer-1
+ <a>
+    <img src="./layer_1.png" width="300" height ="500"/>
  </a>
 
