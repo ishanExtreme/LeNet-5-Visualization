@@ -49,11 +49,11 @@ Trained on mnist data
     <img src="./layer_3.png" width="550" height ="700"/>
  </a>
  
-  #### Layer-4(max_pooling2d_1)
+ #### Layer-4(max_pooling2d_1)
   <a>
     <img src="./layer_4.png" width="550" height ="700"/>
- </a>)
-  <a>
-    <img src="./layer_3.png" width="500" height ="700"/>
  </a>
+ 
+ ### Try it yourself on different numbers on google colab or on local system by using checkpoint.zip and LeNet-5.ipynb in the repository
+
 
