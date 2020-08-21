@@ -15,3 +15,13 @@
     <img src="./index.png"/>
   </a>
   </p>
+  
+  
+## Model Summary
+Trained on mnist data
+#### Performance
+  loss: 0.0189 - accuracy: 0.9938 - val_loss: 0.0562 - val_accuracy: 0.9868
+#### Summary
+  <a>
+    <img src="./summary.png" width="300" height ="300"/>
+  </a>
