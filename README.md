@@ -54,6 +54,6 @@ Trained on mnist data
     <img src="./layer_4.png" width="550" height ="700"/>
  </a>
  
- ### Try it yourself on different numbers on google colab or on local system by using checkpoint.zip and LeNet-5.ipynb in the repository
+ ### Try it yourself on different digits on google colab or on local system by using checkpoint.zip and LeNet-5.ipynb in the repository
 
 
