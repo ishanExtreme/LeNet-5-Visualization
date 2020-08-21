@@ -36,11 +36,16 @@ Trained on mnist data
  
 #### Layer-1(conv2d)
  <a>
-    <img src="./layer_1.png" width="300" height ="500"/>
+    <img src="./layer_1.png" width="350" height ="500"/>
  </a>
  
- #### Layer-1(max_pooling2d)
+ #### Layer-2(max_pooling2d)
  <a>
-    <img src="./layer_2.png" width="300" height ="500"/>
+    <img src="./layer_2.png" width="350" height ="500"/>
+ </a>
+ 
+ #### Layer-3(conv2d_1)
+  <a>
+    <img src="./layer_3.png" width="500" height ="700"/>
  </a>
 
