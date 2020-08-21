@@ -12,6 +12,6 @@
 
 <p align="center">
   <a>
-    <img src="./img/index.png"/>
+    <img src="./index.png"/>
   </a>
   </p>
